@@ -1,3 +1,3 @@
 ## Login moderno com IA
 
-<img src="" alt="" />
+<img src="./preview/login-ia.png" alt="" />
